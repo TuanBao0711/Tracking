@@ -1,0 +1,11 @@
+
+
+
+{
+        
+        "cam1":"./video/RGB.mp4",
+        "cam2":"./video/IR.mp4"
+
+        
+        
+    }
